@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        TUGAS4: "TUGAS4.html"
+        TUGAS4: "index.html"
       }
     }
   }
